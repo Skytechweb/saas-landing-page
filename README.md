@@ -6,7 +6,7 @@
 (currently unavailable)
 
 ## Design & Concept
-* **Tool Used:** TBA
+* **Tool Used:** HTML/CSS
 * **Goal:** Design a clean, high-trust hero section for an enterprise-focused SaaS product.
 
 ## 🛠️ Tech Stack

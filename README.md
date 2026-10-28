@@ -1,9 +1,6 @@
-# saas-landing-page
-A responsive SaaS marketing page built with clean code and modern UI principles.
-
 # SaaS Landing Page
 
-> A high-converting marketing landing page and interactive pricing calculator designed and developed from scratch.
+A high-converting marketing landing page and interactive pricing calculator designed and developed from scratch.
 
 ## Preview
 (currently unavailable)

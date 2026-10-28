@@ -1,6 +1,6 @@
 # SaaS Landing Page
 
-A high-converting marketing landing page and interactive pricing calculator designed and developed from scratch.
+> A high-converting marketing landing page and interactive pricing calculator designed and developed from scratch.
 
 ## Preview
 (currently unavailable)

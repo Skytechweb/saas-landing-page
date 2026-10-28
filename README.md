@@ -9,12 +9,12 @@
 * **Tool Used:** HTML/CSS
 * **Goal:** Design a clean, high-trust hero section for an enterprise-focused SaaS product.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * HTML5 / Semantic Layouts
 * CSS3 / Tailwind CSS (Responsive Design)
 * JavaScript / Python (for interactivity)
 
-## ✨ Key Features
+## Key Features
 * Fully responsive layout (Mobile, Tablet, Desktop)
 * Interactive pricing calculation toggle
 * Accessible form inputs and smooth hover states

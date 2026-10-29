@@ -3,7 +3,8 @@
 > A high-converting marketing landing page and interactive pricing calculator designed and developed from scratch.
 
 ## Preview
-(currently unavailable)
+<img width="893" height="405" alt="image" src="https://github.com/user-attachments/assets/ea9b0b0b-fd10-47bc-ac60-973c9aa483e7" />
+
 
 ## Design & Concept
 * **Tool Used:** HTML/CSS
